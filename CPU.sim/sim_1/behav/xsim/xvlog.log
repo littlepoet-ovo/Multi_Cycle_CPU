@@ -1,0 +1,52 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/ALUControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/CarryLookAhead_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CarryLookAhead_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/EXT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/FixedComplementAdder32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FixedComplementAdder32
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/GU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GU
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/Minus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Minus
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/PU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PU
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/ParallelAdder4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ParallelAdder4
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/PartialCarryLookAheadAdder_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PartialCarryLookAheadAdder_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/PartialCarryLookAheadAdder_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PartialCarryLookAheadAdder_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/REG_branch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module REG_branch
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/SUM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUM
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/dm_4k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dm_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/im_4k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module im_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/mux3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux3
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/mux4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/shift2_26_28.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift2_26_28
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sources_1/new/shift2_32_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift2_32_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Vivado/Multi_Cycle_CPU/CPU.srcs/sim_1/new/mips_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_tb

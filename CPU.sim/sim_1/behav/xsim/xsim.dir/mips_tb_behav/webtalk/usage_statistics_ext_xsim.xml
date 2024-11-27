@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<webTalkData  fileName='usage_statistics_ext_xsim.xml'  majorVersion='1' minorVersion='0' timeStamp='Wed Apr  3 11:37:58 2024'>
+<section name="__ROOT__" level="0" order="1" description="">
+ <section name="software_version_and_target_device" level="1" order="1" description="">
+  <keyValuePair key="beta" value="FALSE" description="" />
+  <keyValuePair key="build_version" value="2405991" description="" />
+  <keyValuePair key="date_generated" value="Wed Apr  3 11:37:57 2024" description="" />
+  <keyValuePair key="os_platform" value="WIN64" description="" />
+  <keyValuePair key="product_version" value="XSIM v2018.3 (64-bit)" description="" />
+  <keyValuePair key="project_id" value="188f4ad337db47af8e5a70cba7307ae7" description="" />
+  <keyValuePair key="project_iteration" value="154" description="" />
+  <keyValuePair key="random_id" value="78a5e4f5-76b9-4f28-92d6-20df50a3b86b" description="" />
+  <keyValuePair key="registration_id" value="78a5e4f5-76b9-4f28-92d6-20df50a3b86b" description="" />
+  <keyValuePair key="route_design" value="FALSE" description="" />
+  <keyValuePair key="target_device" value="not_applicable" description="" />
+  <keyValuePair key="target_family" value="not_applicable" description="" />
+  <keyValuePair key="target_package" value="not_applicable" description="" />
+  <keyValuePair key="target_speed" value="not_applicable" description="" />
+  <keyValuePair key="tool_flow" value="xsim_vivado" description="" />
+ </section>
+ <section name="user_environment" level="1" order="2" description="">
+  <keyValuePair key="cpu_name" value="12th Gen Intel(R) Core(TM) i5-12500H" description="" />
+  <keyValuePair key="cpu_speed" value="3110 MHz" description="" />
+  <keyValuePair key="os_name" value="Microsoft Windows 8 or later , 64-bit" description="" />
+  <keyValuePair key="os_release" value="major release  (build 9200)" description="" />
+  <keyValuePair key="system_ram" value="16.000 GB" description="" />
+  <keyValuePair key="total_processors" value="1" description="" />
+ </section>
+ <section name="vivado_usage" level="1" order="3" description="">
+ </section>
+ <section name="xsim" level="1" order="4" description="">
+  <section name="command_line_options" level="2" order="1" description="">
+   <keyValuePair key="command" value="xsim" description="" />
+   <keyValuePair key="runall" value="true" description="" />
+  </section>
+  <section name="usage" level="2" order="2" description="">
+   <keyValuePair key="iteration" value="1" description="" />
+   <keyValuePair key="runtime" value="10 ns" description="" />
+   <keyValuePair key="simulation_memory" value="16376_KB" description="" />
+   <keyValuePair key="simulation_time" value="4.33_sec" description="" />
+   <keyValuePair key="trace_waveform" value="true" description="" />
+  </section>
+ </section>
+</section>
+</webTalkData>
